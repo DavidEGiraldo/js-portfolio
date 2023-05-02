@@ -1,1 +1,3 @@
 # js-portfolio
+
+Este es un proyecto de simulación de portafolio que utiliza tecnologías web estándar como Javascript Vanilla, HTML y CSS para construir una interfaz de usuario interactiva. Además, se utiliza Webpack para compilar y empaquetar los archivos del proyecto para su fácil distribución. Los datos personales del usuario se obtienen a través de la API randomuser.me, lo que permite simular un perfil de usuario realista. El proyecto incluye enlaces a las cuentas de LinkedIn, GitHub e Instagram de la persona, lo que facilita la conexión con otros profesionales y el intercambio de información relevante.
